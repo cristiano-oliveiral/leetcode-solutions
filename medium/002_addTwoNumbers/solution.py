@@ -4,7 +4,7 @@ class Solution:
     Fonte: https://leetcode.com/problems/add-two-numbers/
     """
     
-    def add_two_numbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         """
         Soma dois números representados como listas ligadas em ordem reversa.
         
